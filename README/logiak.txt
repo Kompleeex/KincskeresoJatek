@@ -1,0 +1,5 @@
+Magát hogy hova rejetem el a kincset úgy logikáztam ki hogy ugye csak egy láda állítása lehet igaz. Ha az arany igazat állítana akkor az ezüst ládán lévő felirat is igaz lenne. Ha pedig a bronz láda hazudna akkor megint az ezüst láda is igazat mondana meg az arany is, tehát 2 igaz lenne. kizárásos alapon az ezüst ládában van
+
+
+
+
