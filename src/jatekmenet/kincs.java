@@ -1,4 +1,4 @@
-package main;
+package jatekmenet;
 
 public class kincs {
     private int ertek;

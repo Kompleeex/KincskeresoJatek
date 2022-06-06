@@ -1,5 +1,6 @@
 package main;
 
+import jatekmenet.Lada;
 import java.util.Scanner;
 
 public class KincskeresesJatek {
